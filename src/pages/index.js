@@ -19,12 +19,15 @@ const IndexPage = ({ data }) => {
       <Container className="container-fluid">
         <Row>
           <Col>
+            <h4 className="my-3">Recent Blog Posts</h4>
             <div>
               {edges.map(edge => {
                 const { frontmatter } = edge.node
                 return (
                   <div key={frontmatter.path}>
-                    <Link className="title-link" to={frontmatter.path}>{frontmatter.title}</Link>
+                    <Link className="title-link" to={frontmatter.path}>
+                      {frontmatter.title}
+                    </Link>
                     &nbsp;
                     <small>
                       {" "}

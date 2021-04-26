@@ -3,7 +3,7 @@ path: "/cannabis-windowsill-tutorial"
 date: "2021-04-26"
 title: "How To Successfully Grow Weed On Your Windowsill"
 tags: ["growing", "2021"]
-excerpt: "Second Post"
+excerpt: "A short guide explaining why growing weed on your windowsill is worth giving a shot!"
 ---
 
 How To Successfully Grow Weed On Your Windowsill
@@ -16,15 +16,8 @@ Pros and Cons of Growing Weed on a Windowsill
 
 Growing cannabis on a windowsill comes with a host of advantages and disadvantages. The ease of placing a pot on the window and allowing the sun to take care of things tempts a lot of growers. However, the lack of control over environmental factors can detract a lot from the results. Check out the major pros and cons below.
 
-Pros:
-    - Cost saving
-    - Direct natural sunlight
-    - Beginner-friendly
-    - Eco-friendly
-Cons:
-    - Smaller space
-    - Plants can be visible to others
-    - Limited sunlight hours
+Pros: - Cost saving - Direct natural sunlight - Beginner-friendly - Eco-friendly
+Cons: - Smaller space - Plants can be visible to others - Limited sunlight hours
 
 How to Grow Weed on a Windowsill: The Basics
 
