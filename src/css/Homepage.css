@@ -1,0 +1,259 @@
+/* Colours */
+.container-fluid {
+  padding: 0 !important;
+}
+
+.bottom-stick {
+  background: #343a40;
+  position: fixed;
+  width: 100%;
+  height: 50px;
+  bottom: 0px;
+  text-align: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  z-index: 1000;
+  cursor: pointer;
+  -webkit-animation: fadeIn2 0.3s;
+          animation: fadeIn2 0.3s;
+  -webkit-transition: opacity 0.4s;
+  transition: opacity 0.4s;
+}
+
+.floating__btn {
+  position: fixed;
+  bottom: 10px;
+  right: 5px;
+  z-index: 999;
+}
+
+.floating__btn .floating__btn:hover {
+  color: #eaafc8;
+}
+
+.plusIcon {
+  background: #23252665 !important;
+  color: #000 !important;
+}
+
+body.swal2-shown > [aria-hidden="true"] {
+  -webkit-filter: blur(3px);
+          filter: blur(3px);
+}
+
+body > * {
+  -webkit-transition: 0.1s -webkit-filter linear;
+  transition: 0.1s -webkit-filter linear;
+  transition: 0.1s filter linear;
+  transition: 0.1s filter linear, 0.1s -webkit-filter linear;
+}
+
+.scrollTop {
+  position: fixed;
+  width: 100%;
+  bottom: 75px;
+  left: 40%;
+  text-align: right;
+  -webkit-box-align: end;
+      -ms-flex-align: end;
+          align-items: flex-end;
+  height: 20px;
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: flex-end;
+  z-index: 1000;
+  cursor: pointer;
+  -webkit-animation: fadeIn 0.3s;
+          animation: fadeIn 0.3s;
+  -webkit-transition: opacity 0.4s;
+  transition: opacity 0.4s;
+  opacity: 0.35;
+}
+
+.scrollTop:hover {
+  opacity: 1;
+}
+
+@-webkit-keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 0.5;
+  }
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 0.5;
+  }
+}
+
+@-webkit-keyframes fadeIn2 {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes fadeIn2 {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+.hdr-img {
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.05)), to(rgba(0, 0, 0, 0.75))), url("../images/purplefanleaf.jpg");
+  background: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.75)), url("../images/purplefanleaf.jpg");
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 60vh;
+}
+
+.hdr-img .hdr-text {
+  padding-top: 20vh;
+}
+
+.hdr-img .hdr-btns:hover {
+  color: white;
+  background-color: #cac157;
+}
+
+.divider {
+  background: #2c7a44;
+  /* fallback for old browsers */
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: -webkit-gradient(linear, left top, right top, from(#2c7a44), to(#cac157));
+  background: linear-gradient(to right, #2c7a44, #cac157);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  width: 40%;
+  height: 3px;
+}
+
+.welcome-container {
+  width: 100%;
+  min-height: 65vh;
+  padding-top: 10vh;
+}
+
+.gradient-txt {
+  background-color: #654ea3;
+  background-image: linear-gradient(45deg, #eaafc8, #654ea3);
+  background-size: 100%;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -moz-text-fill-color: transparent;
+}
+
+@media only screen and (min-width: 1080px) {
+  .img-width {
+    width: 150px;
+  }
+  .img-width2 {
+    width: 225px;
+  }
+}
+
+.about-bg {
+  min-height: 70vh;
+}
+
+.about-img {
+  min-height: 45vh;
+}
+
+a:hover {
+  color: #cac157 !important;
+}
+
+.img-brdr {
+  -webkit-box-sizing: content-box;
+          box-sizing: content-box;
+  border-radius: 10%;
+  border: 5px;
+  border-image: -webkit-linear-gradient(to right bottom, #654ea3, #eaafc8);
+  border-image-slice: 1;
+}
+
+.services-btn {
+  background: #654ea3;
+  /* fallback for old browsers */
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: -webkit-gradient(linear, left top, right top, from(#eaafc8), to(#654ea3));
+  background: linear-gradient(to right, #eaafc8, #654ea3);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  color: #fff;
+  border-color: #fff;
+}
+
+.services-btn:hover {
+  -webkit-box-shadow: 0 8px 6px -6px #505050;
+  box-shadow: 0 8px 6px -6px #505050;
+  color: #fff;
+  border-color: #fff;
+}
+
+.card-container {
+  border: 3px solid #fff;
+  -webkit-box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+          box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+
+.card-container .card-hdr {
+  background-color: #fff;
+}
+
+.prp-hover:hover {
+  color: #fff !important;
+  background: #eaafc8 !important;
+}
+
+.card-pop {
+  border-radius: 10px;
+  overflow: hidden;
+  -webkit-transition: -webkit-transform 100ms ease-in;
+  transition: -webkit-transform 100ms ease-in;
+  transition: transform 100ms ease-in;
+  transition: transform 100ms ease-in, -webkit-transform 100ms ease-in;
+  cursor: pointer;
+}
+
+.card-pop:hover {
+  -webkit-transform: scale(1.035);
+          transform: scale(1.035);
+}
+
+.banner-img {
+  height: 40vh;
+  padding-top: 10vh;
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.35)), to(rgba(0, 0, 0, 0.85))), url("../images/purpleflowering.jpeg");
+  background: linear-gradient(rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.85)), url("../images/purpleflowering.jpeg");
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+}
+
+.title-link {
+  color: #2c7a44 !important;
+}
+
+.title-link:hover {
+  color: #cac157 !important;
+}
+/*# sourceMappingURL=Homepage.css.map */

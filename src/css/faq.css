@@ -1,0 +1,23 @@
+/* Colours */
+html,
+body {
+  overflow-x: hidden !important;
+  width: 100%;
+}
+
+.faq-links {
+  color: #cac157 !important;
+}
+
+.faq-links:hover {
+  color: #2c7a44 !important;
+}
+
+.toggle-txt {
+  color: #2c7a44 !important;
+}
+
+.container-fluid {
+  padding: 0 !important;
+}
+/*# sourceMappingURL=faq.css.map */

@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "ACAA,aAAa;ADEb,AAAA,WAAW,CAAC;EACV,KAAK,EAAE,gBAAgB;CACxB;;AAED,AAAA,WAAW,AAAA,MAAM,CAAC;EAChB,KAAK,ECLC,OAAO,CDKC,UAAU;CACzB;;AAED,AAAA,oBAAoB,CAAC;EACnB,KAAK,EAAE,IAAI;CACZ",
+    "sources": [
+        "BlogPost.scss",
+        "_variables.scss"
+    ],
+    "names": [],
+    "file": "BlogPost.css"
+}

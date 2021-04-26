@@ -1,0 +1,39 @@
+/* Colours */
+.navbar__main {
+  background: #2c7a44;
+  /* fallback for old browsers */
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: -webkit-gradient(linear, left top, right top, from(#2c7a44), to(#cac157));
+  background: linear-gradient(to right, #2c7a44, #cac157);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  width: 100%;
+}
+
+.collapseitem {
+  color: #fff !important;
+  background: #fff !important;
+}
+
+.navbar-btn:hover {
+  color: #fff !important;
+  background: #2c7a44 !important;
+}
+
+.nav-titles {
+  color: #000 !important;
+}
+
+.navbar-titles {
+  font-size: smaller;
+}
+
+.drop-title {
+  font-size: smaller !important;
+}
+
+/*
+.logo__text:hover {
+  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.075));
+}
+*/
+/*# sourceMappingURL=Navbar.css.map */

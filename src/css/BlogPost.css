@@ -1,0 +1,13 @@
+/* Colours */
+.card-title {
+  color: black !important;
+}
+
+.card-title:hover {
+  color: #2c7a44 !important;
+}
+
+.dynamic-content-div {
+  width: 100%;
+}
+/*# sourceMappingURL=BlogPost.css.map */

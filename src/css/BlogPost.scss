@@ -1,0 +1,13 @@
+@import "./variables";
+
+.card-title {
+  color: black !important;
+}
+
+.card-title:hover {
+  color: $green !important;
+}
+
+.dynamic-content-div {
+  width: 100%;
+}

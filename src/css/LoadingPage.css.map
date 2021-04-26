@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "ACAA,aAAa;ADEb,AAAA,eAAe,CAAC;EACd,UAAU,ECDJ,OAAO;EDCO,+BAA+B;EACnD,UAAU,EAAE,iDAIX;EAAE,gCAAgC;EACnC,UAAU,EAAE,yCAIX;EAAE,sEAAsE;EAEzE,OAAO,EAAE,IAAI;EACb,cAAc,EAAE,MAAM;EACtB,eAAe,EAAE,MAAM;EACvB,WAAW,EAAE,MAAM;EACnB,UAAU,EAAE,MAAM;EAClB,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,KAAK;CACd;;AAED,AAAA,cAAc,CAAC;EACb,KAAK,EAAE,IAAI;EACX,UAAU,EAAE,MAAM;CACnB;;AAED,AAAA,gBAAgB,CAAC;EACf,KAAK,EAAE,OAAO;CACf",
+    "sources": [
+        "LoadingPage.scss",
+        "_variables.scss"
+    ],
+    "names": [],
+    "file": "LoadingPage.css"
+}

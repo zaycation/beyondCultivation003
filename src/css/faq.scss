@@ -1,0 +1,23 @@
+@import "./variables";
+
+html,
+body {
+  overflow-x: hidden !important;
+  width: 100%;
+}
+
+.faq-links {
+  color: $yellow !important;
+}
+
+.faq-links:hover {
+  color: $green !important;
+}
+
+.toggle-txt {
+  color: $green !important;
+}
+
+.container-fluid {
+  padding: 0 !important;
+}

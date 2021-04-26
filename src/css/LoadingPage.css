@@ -1,0 +1,35 @@
+/* Colours */
+.loading-screen {
+  background: #2c7a44;
+  /* fallback for old browsers */
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: -webkit-gradient(linear, left bottom, left top, from(#2c7a44), to(#cac157));
+  background: linear-gradient(to top, #2c7a44, #cac157);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  text-align: center;
+  width: 100%;
+  height: 100vh;
+}
+
+.loading__text {
+  color: #fff;
+  text-align: center;
+}
+
+.loading__period {
+  color: #78cffd;
+}
+/*# sourceMappingURL=LoadingPage.css.map */
