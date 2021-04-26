@@ -2,7 +2,8 @@ import React from "react"
 import { graphql, Link } from "gatsby"
 import { Container, Row, Col } from "react-bootstrap"
 
-import Layout from "../components/layout"
+import Header from "../components/Header"
+import HomeNavbar from "../components/HomeNavbar"
 
 import "bootstrap/dist/css/bootstrap.min.css"
 
@@ -11,28 +12,30 @@ const IndexPage = ({ data }) => {
 
   return (
     <>
-      <Container className="container-fluid fluid">
+      <HomeNavbar />
+
+      <Header />
+
+      <Container className="container-fluid">
         <Row>
           <Col>
-            <Layout>
-              <div>
-                {edges.map(edge => {
-                  const { frontmatter } = edge.node
-                  return (
-                    <div key={frontmatter.path}>
-                      <Link to={frontmatter.path}>{frontmatter.title}</Link>
-                      &nbsp;
-                      <small>
-                        {" "}
-                        <em>published on</em> {frontmatter.date}
-                      </small>
-                      <p>{frontmatter.excerpt}</p>
-                      <br />
-                    </div>
-                  )
-                })}
-              </div>
-            </Layout>
+            <div>
+              {edges.map(edge => {
+                const { frontmatter } = edge.node
+                return (
+                  <div key={frontmatter.path}>
+                    <Link className="title-link" to={frontmatter.path}>{frontmatter.title}</Link>
+                    &nbsp;
+                    <small>
+                      {" "}
+                      <em>published on</em> {frontmatter.date}
+                    </small>
+                    <p>{frontmatter.excerpt}</p>
+                    <br />
+                  </div>
+                )
+              })}
+            </div>
           </Col>
         </Row>
       </Container>
