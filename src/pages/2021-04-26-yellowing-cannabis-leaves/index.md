@@ -3,45 +3,43 @@ path: "/yellowing-cannabis-leaves"
 date: "2021-04-26"
 title: "Yellowing Cannabis Leaves"
 tags: ["Cannabis Growing", "2021"]
-image: "https://giecdn.blob.core.windows.net/fileuploads/publications/38/issues/103500/articles/images/fig_3_courtesy_brian_whipker_fmt.png"
 excerpt: "Causes and solutions for yellowing cannabis leaves."
+image: "https://giecdn.blob.core.windows.net/fileuploads/publications/38/issues/103500/articles/images/fig_3_courtesy_brian_whipker_fmt.png"
 ---
 
-COMMON CAUSES OF YELLOW LEAVES
+The following information is **not** a list of the causes for chlorosis. It is such a common symptom; so we have focused on the most common causes for yellowing cannabis leaves based on first hand growing experiences. If you are troubleshooting for a solution to chlorosis, read the next few sections carefully. Your resolution may be right below!
 
-The following is not a definitive list of the causes for chlorosis. It is such a common symptom, that sick plants display, we could write a book, but not today. That being said, we have focused on the most common causes for yellow leaves based on first hand pro grower experiences. If you are presently troubleshooting for a solution to chlorosis, read the next few sections carefully. Your crop could be riding on it.
+### THE MOST COMMON ISSUES:
 
-THE MOST COMMON GROWER ERRORS
+##### UNDER/OVER WATERING
 
-UNDER/OVER WATERING
+Cannabis plants (and many other plants) will only thrive with an effective wet-dry cycle. This means you must water the right amount at the right time, with every watering. So what's the best way to tell if your plants are thirsty? **Try weighing the entire plant in the pot on a scale before watering and after to gauge what the ideal weight should be.** This will definitely help you manage how much to water in the future.
 
-Cannabis plants will only thrive with an effective wet-dry cycle. This means you must water the right amount at the right time, with every watering. So what's the best way to tell if your marijuana is thirsty? Lift up the containers when they are dry. Then again after watering, so you will know the difference.
+Are you growing in a manner where it’s not possible to easily lift the plants? No problem. Then we recommend that you purchase a [humidity meter](https://www.amazon.com/iPower-Moisture-Garden-Gardening-Outdoor/dp/B075LRY5M7/ref=asc_df_B075LRY5M7/?tag=hyprod-20&linkCode=df0&hvadid=241883109355&hvpos=&hvnetw=g&hvrand=4009468868248142126&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9031788&hvtargid=pla-405973324768&psc=1) to insert into the pot. Hydro growers need to ensure pumps, air stones, reservoirs and timers are set up correctly from the start of the grow. _Always remember to check twice, and then check again._
 
-Perhaps it’s not possible to easily lift plants? Then you can purchase a humidity meter to insert into the pot. Hydro growers need to ensure pumps, air stones, reservoirs and timers are set up correctly from the start of the grow. Check twice, and then check again.
+![overwater and unerwater](https://www.zambeza.com/img/cms/bl_underwater.png)
 
-https://www.royalqueenseeds.com/img/cms/1-over-watering_1.jpg
+##### PH AND NUTRIENT LOCKOUT
 
-PH AND NUTRIENT LOCKOUT
-
-Soil growers have the advantage of cultivating in a medium, that acts as a buffer for roots. Hydroponics and coco are not quite as forgiving to pH imbalances. Even soil growers need to at least come close to getting the ideal pH of 6.0-7.0 and maintain it, otherwise plants will suffer. 5.5 to 6.5 pH is generally agreed upon as the recommended range for hydro and coco. Yellow leaves can be a warning sign, that you don’t have your nutes dialled in and the pH is off.
+Soil growers have the advantage because the soil acts as a buffer for roots. Hydroponics and coco are not quite as forgiving to pH imbalances. Even soil growers need to at least come close to getting the ideal pH of 6.0-7.0 and maintain it. 5.5 to 6.5 pH is generally agreed upon as the recommended range for hydro and coco. Yellow leaves can be a warning sign, that you don’t have your nutes dialled in and the pH is off.
 
 Essentially when the pH of your nutrient solution strays above or below the particular sweet spot for your substrate, it prevents complete absorption of all the elements of the solution. Roots are starved of certain nutrients and micronutrients as the incorrect pH causes a lockout.
 
-https://www.royalqueenseeds.com/img/cms/2-ph-lockout.jpg
+![Nute Lockout](https://www.royalqueenseeds.com/img/cms/2-ph-lockout.jpg)
 
-OVER/UNDER-FERTILIZATION
+##### OVER/UNDER-FERTILIZATION
 
-A lack of key nutrients will cause cannabis leaves to turn yellow and wilt. Nutrient deficiencies can interrupt cannabis growth and prevent plants from carrying out vital functions. Conversely, too many nutrients can cause nutrient burn, which also results in yellow leaves. Under-fertilization causes leaves to turn from green to yellow and eventually collapse, whereas over-fertilization causes leaves to become crunchy, vibrant yellow, and curly.
+A lack of key nutrients will cause cannabis leaves to turn yellow and wilt. Nutrient deficiencies can interrupt cannabis growth and prevent plants from carrying out vital functions. On the other hand, too many nutrients can cause nutrient burn, which also results in yellow leaves. Under-fertilization causes leaves to turn from green to yellow and eventually collapse, whereas over-fertilization causes leaves to become crunchy, vibrant yellow, and curly.
 
 As a key macronutrient for cannabis plants, nitrogen deficiency or burn usually causes these symptoms. Nitrogen deficiency starts by yellowing the edges of leaves before working its way inwards. The central veins of each leaf remain dark green throughout this process. Nitrogen burn, on the other hand, gives rise to toxicity, which manifests as shiny leaves that are much darker green than usual.
 
-https://www.royalqueenseeds.com/img/cms/3-over-fertilisation.jpg
+![over and under fertilization](https://www.royalqueenseeds.com/img/cms/3-over-fertilisation.jpg)
 
-LIGHT BURNS AND DEFICIENCIES
+##### LIGHT BURNS AND DEFICIENCIES
 
-Indoor cannabis plants grown under artificial lights must be perfectly positioned and lamps must be in just the right distance above the canopy for best results. When lamps and reflectors are too close to the flowering tops, buds and leaves will be yellow and brown as the light is too intense. This is very much a top down problem.
+Indoor plants grown under artificial lights must be correctly positioned and the correct distance above the canopy for best results. When lamps and reflectors are too close to the flowering tops, buds and leaves will be yellow and brown as the light is too intense. This is very much a top down problem.
 
-In contrast, too little light is usually a problem, that is most evident from the bottom up. Light deficiency causes shaded leaves or leaves too far below the light penetration capability of the lamp to yellow and drop off.
+On the other hand, too little light is also a problem, that is most evident from the bottom up. Light deficiency causes shaded leaves or leaves too far below the light penetration capability of the lamp to yellow and drop off.
 
 https://www.royalqueenseeds.com/img/cms/4-light-burn.jpg
 

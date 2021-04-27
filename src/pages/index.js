@@ -19,41 +19,44 @@ const IndexPage = ({ data }) => {
         <Row>
           <Col>
             <h4 className="my-3 ml-1">Recent Blog Posts</h4>
-            <div>
-              {edges.map(edge => {
-                const { frontmatter } = edge.node
-                return (
-                  <>
-                    <div key={frontmatter.path} className="my-3">
-                      <Card>
-                        <Card.Body>
-                          <Link className="title-link" to={frontmatter.path}>
-                            <Card.Title>{frontmatter.title}</Card.Title>
-                          </Link>
-                          &nbsp;
-                          <small>
-                            <em>published on</em> {frontmatter.date}
-                          </small>
-                          <Card.Text className="my-3">
-                            {frontmatter.excerpt}
-                          </Card.Text>
-                          <div className="d-flex align-items-center justify-content-between">
-                            <Link className="title-link" to={frontmatter.path}>
-                              <Button variant="dark">View Post</Button>
-                            </Link>
-                            <Badge pill variant="success">
-                              {frontmatter.tags}
-                            </Badge>
-                          </div>
-                        </Card.Body>
-                        <Card.Img variant="bottom" src={frontmatter.image} />
-                      </Card>
-                    </div>
-                  </>
-                )
-              })}
-            </div>
           </Col>
+        </Row>
+        <Row>
+          {edges.map(edge => {
+            const { frontmatter } = edge.node
+            return (
+              <>
+                <Col xs={12} sm={12} md={3} lg={4} xl={4}>
+                  <div
+                    key={frontmatter.path}
+                    className="my-3 d-flex align-items-center justify-content-center"
+                  >
+                    <Card style={{ width: "18rem" }}>
+                      <Card.Img variant="top" src={frontmatter.image} />
+                      <Card.Body>
+                        <Link className="title-link" to={frontmatter.path}>
+                          <Card.Title>{frontmatter.title}</Card.Title>
+                        </Link>
+                        &nbsp;
+                        <small>
+                          <em>published on</em> {frontmatter.date}
+                        </small>
+                        <Badge pill variant="success">
+                          {frontmatter.tags}
+                        </Badge>
+                        <Card.Text className="my-3">
+                          {frontmatter.excerpt}
+                        </Card.Text>
+                        <Link className="title-link" to={frontmatter.path}>
+                          <Button variant="dark">View Post</Button>
+                        </Link>
+                      </Card.Body>
+                    </Card>
+                  </div>
+                </Col>
+              </>
+            )
+          })}
         </Row>
       </Container>
     </>
@@ -73,6 +76,7 @@ export const query = graphql`
             path
             tags
             excerpt
+            image
           }
         }
       }

@@ -1,15 +1,21 @@
-import React from "react"
+import React, { useEffect } from "react"
 import { graphql } from "gatsby"
-import { Container, Row, Col } from "react-bootstrap"
+import { Container, Row, Col, Image } from "react-bootstrap"
 
 import Seo from "../components/seo"
 import HomeNavbar from "../components/HomeNavbar"
 
 const Template = ({ data }) => {
   const title = data.markdownRemark.frontmatter.title
+  const blogImg = data.markdownRemark.frontmatter.image
   const excerpt = data.markdownRemark.frontmatter.excerpt
   const date = data.markdownRemark.frontmatter.date
   const html = data.markdownRemark.html
+  // Similar to componentDidMount and componentDidUpdate:
+  useEffect(() => {
+    // Update the document title using the browser API
+    console.log(blogImg)
+  })
 
   return (
     <>
@@ -19,6 +25,7 @@ const Template = ({ data }) => {
         <Row>
           <Col>
             <h1>{title}</h1>
+            <Image src={blogImg} width="100%" rounded />
             <div>
               <em>{date}</em>
             </div>
@@ -44,6 +51,7 @@ export const postQuery = graphql`
         path
         tags
         excerpt
+        image
       }
     }
   }
