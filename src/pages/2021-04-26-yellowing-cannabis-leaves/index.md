@@ -41,38 +41,38 @@ Indoor plants grown under artificial lights must be correctly positioned and the
 
 On the other hand, too little light is also a problem, that is most evident from the bottom up. Light deficiency causes shaded leaves or leaves too far below the light penetration capability of the lamp to yellow and drop off.
 
-https://www.royalqueenseeds.com/img/cms/4-light-burn.jpg
+![light burn](https://www.royalqueenseeds.com/img/cms/4-light-burn.jpg)
 
-FORCES OF NATURE
+### FORCES OF NATURE
 
-COLD WEATHER
+##### COLD WEATHER
 
-Temperatures below 10°C will cause the leaves of the majority of cannabis leaves to yellow. Some will even take on purple and bluish tones. Sure, this is a fantastic bonus in the final phase of bloom with some strains, but to be avoided early in the grow.
+Temperatures below 50°F will cause the leaves of the majority of cannabis leaves to yellow. Some will even take on purple and bluish tones. Of course, this is a fantastic bonus in the final phase of bloom with some strains, but to be avoided early in the grow.
 
-https://www.royalqueenseeds.com/img/cms/5-cold.jpg
+![cold plants](https://www.royalqueenseeds.com/img/cms/5-cold.jpg)
 
-HEAT WAVES
+##### HEAT WAVES
 
-Heat waves can cause cannabis plants leaves to yellow and dry out indoors and outdoors. Temperatures above 28°C prevent cannabis plants from efficiently photosynthesizing and cause buds to form more loosely and airy.
+Heat waves can also cause cannabis fan leaves to yellow. Temperatures above 82.4°F can prevent cannabis plants from efficiently photosynthesizing and will result in loose and airy buds.
 
-https://www.royalqueenseeds.com/img/cms/6-heat.jpg
+![heat wave](https://www.royalqueenseeds.com/img/cms/6-heat.jpg)
 
-LEAF SEPTORIA
+##### LEAF SEPTORIA
 
-As a prolific fungal disease, leaf septoria often leads to yellow cannabis leaves. This pathogen strikes the leaves of several plant species—cannabis, tomatoes, parsley—where it first presents as black spots. As the disease spreads, these spots swiftly spread from leaf to leaf and cause brown spots, yellowing, and wilting.
+Leaf Septoria often leads to yellow cannabis leaves. This pathogen strikes the leaves of several plant species (cannabis, tomatoes, parsley, etc.) and it first presents itself as black spots on leaves. As the disease spreads, these spots swiftly spread from leaf to leaf and cause brown spots, yellowing, and wilting.
 
-Leaf septoria usually ramps up during the early flowering phase. Left untreated, the pathogen can destroy a large amount of foliage. Because cannabis plants depend on their fan leaves to fuel growth and create energy, excess damage can lead to stunted growth and reduced harvests.
+Leaf septoria typically grows rapidly during the early flowering phase. If untreated, the pathogen can destroy a large amount of foliage. Because cannabis plants depend on their fan leaves to fuel growth and create energy, excess damage can lead to stunted growth and reduced harvests.
 
-https://www.royalqueenseeds.com/img/cms/8-leaf-septoria.jpg
+![leaf septoria](https://www.royalqueenseeds.com/img/cms/8-leaf-septoria.jpg)
 
-ROOT ROT
+##### ROOT ROT
 
 Yellow leaves are a key sign of root rot, a microbial condition that attacks the root system of plants. When the growing medium becomes too damp from excessive moisture and over watering, it becomes a breeding ground for fungi, bacteria, and algae. Any of these organisms can begin to attack the roots in these conditions and cause them to start rotting. This leads to yellowing leaves, brown and slimy roots, leaf drop, and an overall droopy and withered look.
 
-https://www.royalqueenseeds.com/img/cms/9-root-rot.jpg
+![root rot](https://www.royalqueenseeds.com/img/cms/9-root-rot.jpg)
 
-WHEN NOT TO WORRY ABOUT YELLOW LEAVES
+##### WHEN NOT TO WORRY ABOUT YELLOW LEAVES
 
-Sometimes, growers don’t need to worry about yellow leaves. At times, they are merely a natural part of the growing cycle. Cannabis plants often shed older fan leaves (especially at the end of their life), which turn yellow before falling to the ground. During the flowering phase, plants divert most of their energy towards the flowers, which also tends to cause slight yellowing of the leaves
+Sometimes, we don’t need to worry about yellowing leaves. A fair amount of the time, this can be a natural part of the growing cycle. Cannabis plants shed older fan leaves (especially at the end of their life), which turn yellow and slowly wilt before falling to the ground. During flowering, plants divert most of their energy towards the flowers, which also tends to cause slight yellowing of the leaves
 
-Flushing towards the end of the flowering phase will also cause leaves to turn yellow and fall from their branches. This intentional restriction of nutrients makes cannabis flowers taste so much better.
+Flushing towards the end of flowering will also cause leaves to turn yellow and fall from their branches. This is extremely normal and not something to stress over since the plant is no longer consuming nutes and using its own resources to finish up the flowering process.
