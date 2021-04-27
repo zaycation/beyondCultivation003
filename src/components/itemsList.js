@@ -210,7 +210,7 @@ const items = [
     metaData: {
       type: "image",
       height: 500,
-      width:375,
+      width: 375,
       title: "mclov3n closet grow",
       description: "sample-description",
     },
@@ -251,6 +251,6 @@ const items = [
       description: "sample-description",
     },
   },
-];
+]
 
-export default items;
+export default items

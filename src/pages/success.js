@@ -28,13 +28,15 @@ const success = () => {
   return (
     <>
       <HomeNavbar />
-      <ProGallery
-        items={items}
-        options={options}
-        container={container}
-        eventsListener={eventsListener}
-        scrollingElement={scrollingElement}
-      />
+      <div className="mx-2">
+        <ProGallery
+          items={items}
+          options={options}
+          container={container}
+          eventsListener={eventsListener}
+          scrollingElement={scrollingElement}
+        />
+      </div>
     </>
   )
 }
