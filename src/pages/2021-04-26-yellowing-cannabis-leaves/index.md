@@ -2,7 +2,8 @@
 path: "/yellowing-cannabis-leaves"
 date: "2021-04-26"
 title: "Yellowing Cannabis Leaves"
-tags: ["gatsby", "2018"]
+tags: ["Cannabis Growing", "2021"]
+image: "https://giecdn.blob.core.windows.net/fileuploads/publications/38/issues/103500/articles/images/fig_3_courtesy_brian_whipker_fmt.png"
 excerpt: "Causes and solutions for yellowing cannabis leaves."
 ---
 
@@ -15,7 +16,7 @@ THE MOST COMMON GROWER ERRORS
 UNDER/OVER WATERING
 
 Cannabis plants will only thrive with an effective wet-dry cycle. This means you must water the right amount at the right time, with every watering. So what's the best way to tell if your marijuana is thirsty? Lift up the containers when they are dry. Then again after watering, so you will know the difference.
-      
+
 Perhaps it’s not possible to easily lift plants? Then you can purchase a humidity meter to insert into the pot. Hydro growers need to ensure pumps, air stones, reservoirs and timers are set up correctly from the start of the grow. Check twice, and then check again.
 
 https://www.royalqueenseeds.com/img/cms/1-over-watering_1.jpg

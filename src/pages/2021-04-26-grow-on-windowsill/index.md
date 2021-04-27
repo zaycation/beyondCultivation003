@@ -2,7 +2,8 @@
 path: "/cannabis-windowsill-tutorial"
 date: "2021-04-26"
 title: "How To Successfully Grow Weed On Your Windowsill"
-tags: ["growing", "2021"]
+tags: ["Cannabis Growing", "2021"]
+image: "https://www.dutchfem.com/wp-content/uploads/2016/05/windowgrow.jpg"
 excerpt: "A short guide explaining why growing weed on your windowsill is worth giving a shot!"
 ---
 

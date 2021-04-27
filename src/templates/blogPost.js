@@ -2,7 +2,7 @@ import React from "react"
 import { graphql } from "gatsby"
 import { Container, Row, Col } from "react-bootstrap"
 
-import SEO from "../components/seo"
+import Seo from "../components/seo"
 import HomeNavbar from "../components/HomeNavbar"
 
 const Template = ({ data }) => {
@@ -14,7 +14,7 @@ const Template = ({ data }) => {
   return (
     <>
       <HomeNavbar />
-      <SEO title={title} description={excerpt} />
+      <Seo title={title} description={excerpt} />
       <Container>
         <Row>
           <Col>
