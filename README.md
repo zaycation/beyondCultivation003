@@ -46,7 +46,7 @@ git checkout -b <name-of-branch>
 
 ### 6. Make the changes you'd like and [submit a pull request](https://opensource.com/article/19/7/create-pull-request-github)
 
-Please note that you may contribute a post to the blog by adding a component page in [./src/blog/](https://github.com/zaycation/beyond-cultivation/tree/main/src)
+Please note that you may contribute a post to the blog by adding a folder and index.md file within [./src/pages/](https://github.com/zaycation/beyond-cultivation/src/pages)
 
 You may also submit any contributions to improve any code or add any new ideas. Also, please note all success images are from the #post-your-grow channel in the discord.
 

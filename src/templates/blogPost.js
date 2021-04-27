@@ -1,17 +1,20 @@
 import React from "react"
 import { graphql } from "gatsby"
 import { Container, Row, Col } from "react-bootstrap"
+import SEO from "../components/seo"
 
 import HomeNavbar from "../components/HomeNavbar"
 
 const Template = ({ data }) => {
   const title = data.markdownRemark.frontmatter.title
+  const excerpt = data.markdownRemark.frontmatter.excerpt
   const date = data.markdownRemark.frontmatter.date
   const html = data.markdownRemark.html
 
   return (
     <>
       <HomeNavbar />
+      <SEO title={title} description={excerpt} />
       <Container>
         <Row>
           <Col>
