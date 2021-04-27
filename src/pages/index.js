@@ -2,7 +2,7 @@ import React from "react"
 import { graphql, Link } from "gatsby"
 import { Container, Row, Col } from "react-bootstrap"
 
-import Header from "../components/Header"
+import Header from "../components/header"
 import HomeNavbar from "../components/HomeNavbar"
 
 import "bootstrap/dist/css/bootstrap.min.css"
