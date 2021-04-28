@@ -3,7 +3,7 @@ path: "/humidity-temps-for-cannabis-growing"
 date: "2021-04-28"
 title: "Relative Humidity and Temperatures for the Cannabis Grow Cycle"
 tags: ["Cannabis Growing", "2021"]
-excerpt: "Causes and solutions for yellowing cannabis leaves."
+excerpt: "Proper temperatures and relative humidity for the cannabis grow cycle."
 image: "https://blog.purennatural.com/hubfs/blog_images/cannabis-grow-room-guide-humidity.jpg"
 ---
 
