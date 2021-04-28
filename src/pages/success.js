@@ -1,4 +1,5 @@
 import React from "react"
+import Footer from "../components/footer"
 import items from "../components/itemsList"
 import HomeNavbar from "../components/HomeNavbar"
 import { ProGallery } from "pro-gallery"
@@ -37,6 +38,7 @@ const success = () => {
           scrollingElement={scrollingElement}
         />
       </div>
+      <Footer />
     </>
   )
 }

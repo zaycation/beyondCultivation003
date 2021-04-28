@@ -1,6 +1,7 @@
 import React from "react"
 import { Accordion, Card } from "react-bootstrap"
 
+import Footer from "../components/footer"
 import HomeNavbar from "../components/HomeNavbar"
 
 import "../css/faq.css"
@@ -226,6 +227,7 @@ const faq = () => {
         </Accordion>
         <h6 className="my-5 text-center">More FAQ's coming soon!</h6>
       </div>
+      <Footer />
     </>
   )
 }

@@ -3,6 +3,7 @@ import { graphql } from "gatsby"
 import { Container, Row, Col, Image } from "react-bootstrap"
 
 import Seo from "../components/seo"
+import Footer from "../components/footer"
 import HomeNavbar from "../components/HomeNavbar"
 
 const Template = ({ data }) => {
@@ -37,6 +38,7 @@ const Template = ({ data }) => {
           </Col>
         </Row>
       </Container>
+      <Footer />
     </>
   )
 }

@@ -3,6 +3,7 @@ import { graphql, Link } from "gatsby"
 import { Container, Row, Col, Card, Button, Badge } from "react-bootstrap"
 
 import Header from "../components/header"
+import Footer from "../components/footer"
 import HomeNavbar from "../components/HomeNavbar"
 import "bootstrap/dist/css/bootstrap.min.css"
 
@@ -59,6 +60,7 @@ const IndexPage = ({ data }) => {
           })}
         </Row>
       </Container>
+      <Footer />
     </>
   )
 }
