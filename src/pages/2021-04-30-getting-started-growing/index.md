@@ -37,6 +37,8 @@ This is the most important part for most people. A carbon filter exhaust kit can
 
 This topic comes down to whether you are interested in a hydroponic grow or an organic soil grow. Traditionally, soil and organic has always been the way to go, but we recommend [coco coir](https://www.amazon.com/Mother-Earth-Compaction-Resisted-Aeration/dp/B08BZKHVRP/ref=sr_1_8?dchild=1&keywords=coco+coir&qid=1619821467&sr=8-8), a dead substrate that mimics soil as a grow medium, but is truly hydroponic! We love coco coir because it's great for beginners, fairly easy  to work with, and almost **impossible to over water**. You can also reuse coco coir many times and some have reported having better grows after it has been broken in a few times!
 
+![coco coir](https://www.advancednutrients.com/wp-content/uploads/2018/10/benefits-coconut-coir.jpg)
+
 ###### Nutrients
 
 Nutrients is the most important part of growing with coco coir because unlike soil, it comes with zero nutes and it does not hold nutes. The plants will consume them immediately. We recommend using the [following nutrients](https://www.amazon.com/General-Hydroponics-GLCMBX0026-FloraNova-KoolBloom/dp/B07TVSLX1C/ref=sr_1_7?dchild=1&keywords=calimagic&qid=1619821602&sr=8-7) with coco coir for the best results. You could even go super minimal and only use [CalMag](https://www.amazon.com/Botanicare-CAL-MAG-Plant-Supplement-Formula/dp/B004JKBMRW/ref=sr_1_5?dchild=1&keywords=cal+mag&qid=1619821636&sr=8-5) and you will be more than satisfied with your grow!
