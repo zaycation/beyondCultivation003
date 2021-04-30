@@ -7,8 +7,6 @@ excerpt: "Proper temperatures and relative humidity for the cannabis grow cycle.
 image: "https://blog.purennatural.com/hubfs/blog_images/cannabis-grow-room-guide-humidity.jpg"
 ---
 
-**PAGE UNDER CONSTRUCTION COME BACK LATER!!!**
-
 ### Temps/RH Based on Life Cycle:
 
 ##### Seedling Stage
