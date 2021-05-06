@@ -17,6 +17,8 @@ In a nutshell, defoliation is simply cutting off the foliage (leaves) that are "
 
 **Proper defoliation techniques include using shears that have been disinfected with isopropyl alcohol. This is extremely important because if you do not disinfect them, this could lead to some sort of disease or infection for your plants.**
 
+![fan leaves](http://www.maximumyield.com/images/uploads/flora-hemp-plant-weed-conifer-tree-yew-blossom-flower-lupin.jpg)
+
 ##### Benefits of defoliation
 
 In an indoor grow, defoliation could lead to better air circulation in the tent due to less overall leaves. Aside from that, defoliating can also reduce the chances of mold and pest infestation from humidity build up.
@@ -24,3 +26,5 @@ In an indoor grow, defoliation could lead to better air circulation in the tent 
 ##### Which leaves should I defoliate?
 
 It is definitely not recommended to get rid of all of your fan leaves. The best leaves to defoliate are those that are yellowing and dying off. Aside from that, any leaves that are blocking/covering up bud sites may be useful to defoliate if you feel as if those bud sites are not getting enough light. Some growers like to defoliate branches with bud sites that look like they will be popcorn nuggs. This is a great idea too if you are looking for size/quality over quantity.
+
+![yellow fan leaf](https://www.growweedeasy.com/wp-content/uploads/2010/10/nitrogen-deficiency-wilted-leaf.jpg)
