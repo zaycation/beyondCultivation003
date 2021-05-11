@@ -1,8 +1,8 @@
 import React from "react"
+//import { Link } from "gatsby"
 import Flip from "react-reveal/Flip"
 import { FaCannabis } from "react-icons/fa"
-import { Link } from "gatsby"
-import { Navbar, Nav, Button } from "react-bootstrap"
+import { Navbar, Nav, NavDropdown, Button } from "react-bootstrap"
 
 import "../css/Navbar.css"
 const HomeNavbar = () => {
@@ -31,12 +31,29 @@ const HomeNavbar = () => {
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="mr-auto">
             <Flip top>
-              <Link to="/success">
-                <Nav.Link href="#success">Success</Nav.Link>
-              </Link>
-              <Link to="/faq">
-                <Nav.Link href="#faq">Grower FAQ</Nav.Link>
-              </Link>
+              <Nav.Link href="/success">Success</Nav.Link>
+
+              <Nav.Link href="/faq">Grower FAQ</Nav.Link>
+              <NavDropdown title="Start Here" id="basic-nav-dropdown">
+                <Flip top>
+                  <NavDropdown.Item href="/getting-started-growing-cannabis">
+                    Get Started Guide
+                  </NavDropdown.Item>
+                  <NavDropdown.Item href="/humidity-temps-for-cannabis-growing">
+                    Temp and RH Cheat Sheet
+                  </NavDropdown.Item>
+                  <NavDropdown.Item href="/understanding-ph">
+                    Understanding pH
+                  </NavDropdown.Item>
+                  <NavDropdown.Item href="/defoliation101">
+                    Defoliation 101
+                  </NavDropdown.Item>
+                  <NavDropdown.Divider />
+                  <NavDropdown.Item href="/cannabis-windowsill-tutorial">
+                    Windowsill Grow Guide
+                  </NavDropdown.Item>
+                </Flip>
+              </NavDropdown>
             </Flip>
           </Nav>
           <Button

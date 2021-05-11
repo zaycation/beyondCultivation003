@@ -1,5 +1,7 @@
 import React from "react"
 import { graphql, Link } from "gatsby"
+import Pulse from "react-reveal/Pulse"
+import LightSpeed from "react-reveal/LightSpeed"
 import { Container, Row, Col, Card, Button, Badge } from "react-bootstrap"
 
 import Header from "../components/header"
@@ -19,7 +21,9 @@ const IndexPage = ({ data }) => {
       <Container className="container-fluid">
         <Row>
           <Col>
-            <h4 className="my-3 ml-1">Recent Blog Posts</h4>
+            <LightSpeed right>
+              <h4 className="my-3 ml-1">Recent Blog Posts</h4>
+            </LightSpeed>
           </Col>
         </Row>
         <Row>
@@ -28,32 +32,34 @@ const IndexPage = ({ data }) => {
             return (
               <>
                 <Col xs={12} sm={12} md={3} lg={4} xl={4}>
-                  <div
-                    key={frontmatter.path}
-                    className="my-3 d-flex align-items-center justify-content-center"
-                  >
-                    <Card style={{ width: "18rem" }}>
-                      <Card.Img variant="top" src={frontmatter.image} />
-                      <Card.Body>
-                        <Link className="title-link" to={frontmatter.path}>
-                          <Card.Title>{frontmatter.title}</Card.Title>
-                        </Link>
-                        &nbsp;
-                        <small>
-                          <em>published on</em> {frontmatter.date}
-                        </small>
-                        <Badge pill variant="success">
-                          {frontmatter.tags}
-                        </Badge>
-                        <Card.Text className="my-3">
-                          {frontmatter.excerpt}
-                        </Card.Text>
-                        <Link className="title-link" to={frontmatter.path}>
-                          <Button variant="dark">View Post</Button>
-                        </Link>
-                      </Card.Body>
-                    </Card>
-                  </div>
+                  <Pulse>
+                    <div
+                      key={frontmatter.path}
+                      className="my-3 d-flex align-items-center justify-content-center"
+                    >
+                      <Card style={{ width: "18rem" }}>
+                        <Card.Img variant="top" src={frontmatter.image} />
+                        <Card.Body>
+                          <Link className="title-link" to={frontmatter.path}>
+                            <Card.Title>{frontmatter.title}</Card.Title>
+                          </Link>
+                          &nbsp;
+                          <small>
+                            <em>published on</em> {frontmatter.date}
+                          </small>
+                          <Badge pill variant="success">
+                            {frontmatter.tags}
+                          </Badge>
+                          <Card.Text className="my-3">
+                            {frontmatter.excerpt}
+                          </Card.Text>
+                          <Link className="title-link" to={frontmatter.path}>
+                            <Button variant="dark">View Post</Button>
+                          </Link>
+                        </Card.Body>
+                      </Card>
+                    </div>
+                  </Pulse>
                 </Col>
               </>
             )
