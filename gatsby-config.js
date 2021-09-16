@@ -45,6 +45,7 @@ module.exports = {
     author: "zaycationdev",
   },
   plugins: [
+    "gatsby-plugin-netlify-cms",
     "gatsby-plugin-react-helmet",
     {
       resolve: `gatsby-plugin-google-gtag`,
