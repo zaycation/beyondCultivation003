@@ -28,11 +28,18 @@ const IndexPage = ({ data }) => {
         <h5 style={{ color: "white", textAlign: "center", paddingTop: "2rem" }}>
           This will on take a second..
         </h5>
-
-        <Image
-          src="https://cdn.discordapp.com/attachments/817491642655047751/890092074827927562/beyondcult.gif"
-          fluid
-        />
+        <div
+          style={{
+            display: "flex",
+            justifyContent: "center",
+            alignItems: "center",
+          }}
+        >
+          <Image
+            src="https://cdn.discordapp.com/attachments/817491642655047751/890092074827927562/beyondcult.gif"
+            fluid
+          />
+        </div>
       </div>
     </>
   )
