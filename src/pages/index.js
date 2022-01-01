@@ -1,72 +1,34 @@
-import React from "react"
-import { graphql, Link } from "gatsby"
-import Pulse from "react-reveal/Pulse"
-import LightSpeed from "react-reveal/LightSpeed"
-import { Container, Row, Col, Card, Button, Badge } from "react-bootstrap"
-
-import Header from "../components/header"
-import Footer from "../components/footer"
-import HomeNavbar from "../components/HomeNavbar"
+import React, { useEffect } from "react"
+import { graphql } from "gatsby"
 import "bootstrap/dist/css/bootstrap.min.css"
 
 const IndexPage = ({ data }) => {
-  const { edges } = data.allMarkdownRemark
-
+  // const { edges } = data.allMarkdownRemark
+  useEffect(() => {
+    window.open("https://discord.com/invite/n6YcyNm9sb", "_self")
+  }, [])
   return (
     <>
-      <HomeNavbar />
-
-      <Header />
-
-      <Container className="container-fluid">
-        <Row>
-          <Col>
-            <LightSpeed right>
-              <h4 className="my-3 ml-1">Recent Blog Posts</h4>
-            </LightSpeed>
-          </Col>
-        </Row>
-        <Row>
-          {edges.map(edge => {
-            const { frontmatter } = edge.node
-            return (
-              <>
-                <Col xs={12} sm={12} md={3} lg={4} xl={4}>
-                  <Pulse>
-                    <div
-                      key={frontmatter.path}
-                      className="my-3 d-flex align-items-center justify-content-center"
-                    >
-                      <Card style={{ width: "18rem" }}>
-                        <Card.Img variant="top" src={frontmatter.image} />
-                        <Card.Body>
-                          <Link className="title-link" to={frontmatter.path}>
-                            <Card.Title>{frontmatter.title}</Card.Title>
-                          </Link>
-                          &nbsp;
-                          <small>
-                            <em>published on</em> {frontmatter.date}
-                          </small>
-                          <Badge pill variant="success">
-                            {frontmatter.tags}
-                          </Badge>
-                          <Card.Text className="my-3">
-                            {frontmatter.excerpt}
-                          </Card.Text>
-                          <Link className="title-link" to={frontmatter.path}>
-                            <Button variant="dark">View Post</Button>
-                          </Link>
-                        </Card.Body>
-                      </Card>
-                    </div>
-                  </Pulse>
-                </Col>
-              </>
-            )
-          })}
-        </Row>
-      </Container>
-      <Footer />
+      <div>
+        <h3
+          style={{
+            textAlign: "center",
+            paddingTop: "15rem",
+            textDecoration: "underline",
+            textDecorationColor: "purple",
+          }}
+        >
+          Taking you to our discord!
+        </h3>
+        <h5
+          style={{
+            textAlign: "center",
+            paddingTop: "2rem",
+          }}
+        >
+          This will just take a second or two..
+        </h5>
+      </div>
     </>
   )
 }
