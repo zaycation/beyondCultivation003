@@ -28,6 +28,7 @@ const IndexPage = ({ data }) => {
         >
           This will just take a second or two..
         </h5>
+        
       </div>
     </>
   )
