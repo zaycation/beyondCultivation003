@@ -26,7 +26,7 @@ const IndexPage = ({ data }) => {
           Taking you to our discord!
         </h3>
         <h5 style={{ color: "white", textAlign: "center", paddingTop: "2rem" }}>
-          This will on take a second..
+          This will only take a second..
         </h5>
         <div
           style={{
